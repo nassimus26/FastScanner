@@ -23,7 +23,7 @@
         <connection>scm:git:git:https://github.com/nassimus26/FastScanner</connection>
         <developerConnection>scm:git:https://github.com/nassimus26/FastScanner</developerConnection>
         <url>https://github.com/nassimus26/FastScanner</url>
-        <tag>FastScanner-1.0</tag>
+        <tag>FastScanner-1.0.0e</tag>
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
