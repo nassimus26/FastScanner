@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.nassimus26</groupId>
     <artifactId>FastScanner</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <licenses>
         <license>
             <name>LGPL license, Version 3.0</name>
@@ -11,6 +11,7 @@
         </license>
     </licenses>
     <name>FastScanner</name>
+    <url>https://github.com/nassimus26/FastScanner</url>
     <description>Optimized Java Library for buffered stream scanning</description>
     <developers>
         <developer>
