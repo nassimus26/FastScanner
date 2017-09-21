@@ -20,8 +20,8 @@ How to use it :
 
 ```java
     public class FastScannerExemples {
-        private FastScanner getScannerInstance(String str){
-            ByteArrayInputStream inputStream = new ByteArrayInputStream(buffer.toString().getBytes());
+        private static FastScanner getScannerInstance(String str){
+            ByteArrayInputStream inputStream = new ByteArrayInputStream(str.getBytes());
             return new FastScanner(inputStream);        
         }
     
