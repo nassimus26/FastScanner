@@ -13,7 +13,7 @@ It supports :
 <dependency>
     <groupId>io.github.nassimus26</groupId>
     <artifactId>FastScanner</artifactId>
-    <version>1.0.0</version> 
+    <version>1.0.2</version> 
 </dependency>
 ```    
 How to use it :
